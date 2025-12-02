@@ -1,0 +1,5 @@
+{
+  "name": "Monthly Expense Tracker",
+  "description": "An intuitive React web application for tracking monthly expenses and income, summarizing savings, visualizing spending with a pie chart, and offering AI-powered tips to improve financial health.",
+  "requestFramePermissions": []
+}
